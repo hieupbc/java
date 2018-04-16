@@ -19,7 +19,7 @@
 	<div class="row" style="padding-top: 100px">
 
 		<div class="col-md-4"></div>
-		<div class="col-md-4">
+		<div class="col-md-4" style="border: 2px">
 
 			<div class="container-fluid">
 				<h2>Login</h2>
